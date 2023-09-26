@@ -9,7 +9,13 @@ Front : blog ui 구현하고 fetch Js 작성
 1. id
 2. title
 3. content
+   
+<br>
+
 **url 양식**
+
+<br>
+
 base url : localhost:8080
 1. /articles (전체 게시글 조회) -> get , post
 2. /articles/{id} (세부 게시글 조회) -> delete, get,put ...
